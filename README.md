@@ -1,4 +1,4 @@
-# Imersão Dev 6 Alura
+# 7 Days Of Code Lógica de Programação
 
 
 ## ❓ Sobre
